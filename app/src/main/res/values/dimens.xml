@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttonMargin">7dp</dimen>
+    <dimen name="editTextmargin">10dp</dimen>
+    <dimen name="textPrimarySize">18sp</dimen>
+    <dimen name="buttonspadding">20dp</dimen>
+    <dimen name="buttonsSize">30dp</dimen>
+
+
+</resources>

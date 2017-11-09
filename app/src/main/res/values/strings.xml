@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">ShareData</string>
+<string name="editTextMainHint">Escriu aqui</string>
+<string name="buttonMain">Obrir</string>
+<string name="obrirButtonClicked">Obrir Button Clicked</string>
+<string name="savedButtonClicked">Texte \"NOMBRE\" desat correctament</string>
+
+
+</resources>
